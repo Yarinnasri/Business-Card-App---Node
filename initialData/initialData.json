@@ -1,0 +1,181 @@
+{
+  "cards": [
+    {
+      "_id": "6601941691640a0b5122cdd5",
+      "title": "butterfly",
+      "subtitle": "it's a butterfly",
+      "description": "it can fly",
+      "phone": "052-1111111",
+      "email": "butterfly123@gmail.com",
+      "web": "https://www.butterfly.com",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1633621412960-6df85eff8c85?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGltYWdlfGVufDB8fDB8fHww",
+        "alt": "butterfly card image",
+        "_id": "660d2a74f9d3ea58f6d547bc"
+      },
+      "address": {
+        "state": "not defined",
+        "country": "israel",
+        "city": "butterfly",
+        "street": "butterfly",
+        "houseNumber": 1,
+        "zip": 1111111,
+        "_id": "660d2a74f9d3ea58f6d547bd"
+      },
+      "bizNumber": 6616328,
+      "likes": [
+        "65fc06e7cb7aa60febcced58",
+        "65a697870f61e1c5f9effac5",
+        "66046fcdf9d3ea58f6d4cdec",
+        "65e87e2ddc809e75acddfc21"
+      ],
+      "user_id": "65f5597d5aabf0bc85194dce",
+      "createdAt": "2024-03-25T15:11:18.853Z",
+      "__v": 626
+    },
+    {
+      "_id": "660194ef91640a0b5122ce0a",
+      "title": "pancake",
+      "subtitle": "it's a pancake",
+      "description": "it tastes good",
+      "phone": "052-2222222",
+      "email": "pancake123@gmail.com",
+      "web": "https://www.pancake.com",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1598214886806-c87b84b7078b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGltYWdlfGVufDB8fDB8fHww",
+        "alt": "pancake card image",
+        "_id": "6601950bb1d4ce9ac54afaa7"
+      },
+      "address": {
+        "state": "not defined",
+        "country": "israel",
+        "city": "pancake",
+        "street": "pancake",
+        "houseNumber": 2,
+        "zip": 2222222,
+        "_id": "6601950bb1d4ce9ac54afaa8"
+      },
+      "bizNumber": 3911470,
+      "likes": [
+        "65fc1706794d54d12ca949a7",
+        "657e0bed12eedb1d946a3c50",
+        "65fc06e7cb7aa60febcced58",
+        "653a608d1c7cd80c1fd27532",
+        "6615699600b4d006b4f96450"
+      ],
+      "user_id": "65f5597d5aabf0bc85194dce",
+      "createdAt": "2024-03-25T15:14:55.092Z",
+      "__v": 77
+    },
+    {
+      "_id": "6601b2f6b1d4ce9ac54b10ec",
+      "title": "balance",
+      "subtitle": "balance is good",
+      "description": "good is balance",
+      "phone": "052-3333333",
+      "email": "balance123@gmail.com",
+      "web": "https://www.balance.com",
+      "image": {
+        "url": "https://plus.unsplash.com/premium_photo-1669825050501-b1d61e263df0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YWJzdHJhY3R8ZW58MHx8MHx8fDA%3D",
+        "alt": "balance card image",
+        "_id": "66021dfe91640a0b512344e7"
+      },
+      "address": {
+        "state": "not defined",
+        "country": "israel",
+        "city": "balance",
+        "street": "balance",
+        "houseNumber": 3,
+        "zip": 3333333,
+        "_id": "66021dfe91640a0b512344e6"
+      },
+      "bizNumber": 3640162,
+      "likes": ["65fc06e7cb7aa60febcced58"],
+      "user_id": "65ff155a21d0fa495f387c33",
+      "createdAt": "2024-03-25T17:23:02.510Z",
+      "__v": 15
+    }
+  ],
+  "users": [
+    {
+      "_id": "65a823a10f61e1c5f9f000fd",
+      "name": {
+        "first": "business",
+        "middle": "example",
+        "last": "user",
+        "_id": "65e75d0a5aabf0bc8515a1f5"
+      },
+      "phone": "052-1111111",
+      "email": "BusinessExampleUser@gmail.com",
+      "image": {
+        "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+        "alt": "business user logo",
+        "_id": "65e75d0a5aabf0bc8515a1f6"
+      },
+      "address": {
+        "state": "not defined",
+        "country": "example",
+        "city": "example",
+        "street": "example",
+        "houseNumber": 1,
+        "zip": 1111111,
+        "_id": "65e75d0a5aabf0bc8515a1f7"
+      },
+      "isAdmin": false,
+      "isBusiness": true,
+      "createdAt": "2024-01-17T18:59:45.074Z"
+    },
+    {
+      "_id": "65a9174b12eedb1d94710547",
+      "name": {
+        "first": "regular",
+        "middle": "example",
+        "last": "user",
+        "_id": "65c4a1c4624794ceee4e5bf2"
+      },
+      "phone": "052-2222222",
+      "email": "RegularExampleUser@gmail.com",
+      "image": {
+        "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+        "alt": "regular user logo",
+        "_id": "65c4a1c4624794ceee4e5bf1"
+      },
+      "address": {
+        "state": "not defined",
+        "country": "example",
+        "city": "example",
+        "street": "example",
+        "houseNumber": 2,
+        "zip": 2222222,
+        "_id": "65c4a1c4624794ceee4e5bf5"
+      },
+      "isAdmin": false,
+      "isBusiness": false,
+      "createdAt": "2024-01-18T12:19:23.246Z"
+    },
+
+    {
+      "name": {
+        "first": "admin",
+        "middle": "example",
+        "last": "user"
+      },
+      "phone": "052-3333333",
+      "email": "AdminExampleUser@gmail.com",
+      "image": {
+        "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+        "alt": "admin user logo"
+      },
+      "address": {
+        "state": "not defined",
+        "country": "example",
+        "city": "example ",
+        "street": "example",
+        "houseNumber": 3,
+        "zip": 3333333
+      },
+      "isAdmin": true,
+      "isBusiness": true
+    }
+  ]
+}
